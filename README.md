@@ -4,7 +4,7 @@
 in the begining jaadi is the only colaborator in this simple project. he wrote this line and will commit this changes.
 ###owner
 * @jaadi
-###contributors
+###future contributors 
 
 * @finini
 * @flico (der existiert noch nicht !)
